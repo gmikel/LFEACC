@@ -10,12 +10,16 @@ The purpose of this repository is to serve as a "scratch pad" for Jupyter/IPytho
 * 1.2 What is FEA?
 * 1.3 Software
 * 1.4 Demonstration by Example
-	* 1.4.1 Choose the Geometry
+	* 1.4.1 Choose the Geometry of Interest
 	* 1.4.2 Select an Element
 	* 1.4.3 Define the Shape Functions
+	* 1.4.4 Determine the Displacement/Strain/Stress Relationships
 	* 1.4.5 Generate the Stiffness Matrix
 	* 1.4.6 Apply the Loads and Boundary Conditions
 	* 1.4.7 Invert and Solve
+* 1.5 CalculiX Solution (Example Continued)
+	* 1.5.1 ...
+	* 1.5.2 ...
 
 ### 2.  Spring & Dashpot Elements
 
